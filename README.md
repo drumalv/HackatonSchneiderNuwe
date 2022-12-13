@@ -6,7 +6,7 @@ Authors:
   - Gallego López, Pedro.
   
   
-In [presentation.pdf](https://github.com/drumalv/HackatonSchneiderNuwe/presentation.pdf) you can see a brief explanation about the solution. Also in [main.ipynb](https://github.com/drumalv/HackatonSchneiderNuwe/main.ipynb) you can see the solution properly.
+In [presentation.pdf](https://github.com/drumalv/HackatonSchneiderNuwe/blob/main/presentation.pdf) you can see a brief explanation about the solution. Also in [main.ipynb](https://github.com/drumalv/HackatonSchneiderNuwe/blob/main/main.ipynb) you can see the solution properly.
 
 ## Final Hackaton Score:
 - **Ranking position**: 7 / 203 (top 3.5%)
